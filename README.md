@@ -69,8 +69,8 @@ Directivity (dB) = P3-P4
 ---
 
 ## Observation
+<img width="903" height="1509" alt="image" src="https://github.com/user-attachments/assets/142cc2ac-a4ba-42b7-b15d-4f762e1c6ac6" />
 
- <img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/b8bb956c-5431-47f0-8ddb-c233bce1979e" />
 
 
 
